@@ -12,7 +12,7 @@
 - 🔭 Landing Pages con seguimiento de campañas publicitarias
 - 🌱 Estudio QA Engineering en un novedoso bootcamp de tecnologia TripleTen ⭐
 - 👯 Estoy buscando colaborar en estrategias de seguimiento de bugs
-- ⚡ Dato curioso: Tengo conocimientos sobre geometria de nodos en Blender
+- ⚡ Dato curioso: Tengo conocimientos de entornos 3D y geometria de nodos en Blender
 
 ##
 
@@ -54,3 +54,84 @@
   
 </td>
 </table>  
+
+## Proyectos QA con TripleTen
+
+<table width="100%" border="1">
+<tr>
+<th>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H4-ZWYWgL7uUA4dtGP6asBqolhpfAH6uNg&s">
+</th>
+<th>
+<ul class="circle-list"> 
+<li>
+<h3>
+<a href="https://docs.google.com/spreadsheets/d/15Hw12u0dMPWN6kmfY3hAqZQXpC9stL_u/edit?usp=drive_link&ouid=117045217945468927545&rtpof=true&sd=true">
+Pruebas de regresión
+</a>
+</h3>
+</li> 
+<li>
+<h3>
+<a href="https://docs.google.com/spreadsheets/d/1SiNLib1XswQCEZQoSJdSjufbiKn5zfC0/edit?usp=drive_link&ouid=117045217945468927545&rtpof=true&sd=true">
+Clases de equivalencia
+</a>
+</h3>
+</li> 
+<li>
+<h3>
+<a href="https://docs.google.com/spreadsheets/d/1yWbZg8nfTkYdxo7wSLGmpH0FVwqAawCA/edit?usp=drive_link&ouid=117045217945468927545&rtpof=true&sd=true">
+Pruebas de aplicaciones web
+</a>
+</h3>
+</li>
+<li>
+<h3>
+<a href="https://docs.google.com/spreadsheets/d/1PQXfm6q7UTo1F6C4-xqxpjf56sgyp6j4NlocGwl_ZKI/edit?usp=drive_link">
+Pruebas de API
+</a>
+</h3>
+</li> 
+<li>
+<h3>
+<a href="https://docs.google.com/spreadsheets/d/1tIbVvXe-lN3mfK5r7s46mKQLxHOqFRL1/edit?usp=drive_link&ouid=117045217945468927545&rtpof=true&sd=true">
+Pruebas de aplicaciones móviles
+</a>
+</h3>
+</li> 
+</ul>
+</th>
+</tr>
+</table>
+
+## Proyectos recientes
+<table align="center">
+<tr>
+  
+<td width="50%">
+<h3 align="center">Parrilladas GDL</h3>
+<div align="center">
+<img src="https://imgur.com/24W3sU0.png">
+<p>
+Aplicación multiplataforma para realizar pedidos a domicilio, procesamiento de pagos y logistica de enviós con Google Maps API
+</p>
+<a href="https://parrillada-gdl.com">
+<img src="https://img.shields.io/badge/Visitar-005d9e?style=for-the-badge">
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Éxito Latino 97.1 fm</h3>
+<div align="center">
+<img src="https://imgur.com/Pa5cHzX.png">
+<p>
+Radio digital 24/7 alojado en un servidor local, musica regional, spots y programas esotericos
+</p>
+<a href="https://exitolatino-radiodigital.com/">
+<img src="https://img.shields.io/badge/Visitar-005d9e?style=for-the-badge">
+</div>
+</td>
+
+</table>  
+
+
