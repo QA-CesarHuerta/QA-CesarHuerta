@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/Postman-009e51?style=for-the-badge">
   <img src="https://img.shields.io/badge/Apidoc-00979e?style=for-the-badge">
   <img src="https://img.shields.io/badge/Swagger-000e9e?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Selenium-9e5d00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-9e0000?style=for-the-badge">
 </p>
 </div>
   
@@ -49,10 +51,42 @@
   <img src="https://img.shields.io/badge/Google%20Analytics-009e97?style=for-the-badge">
   <img src="https://img.shields.io/badge/Google%20Play%20Console-009e4d?style=for-the-badge">
   <img src="https://img.shields.io/badge/Cloud%20Console-9e0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/App Store Connect-94009e?style=for-the-badge">
 </p>
 </div>
   
 </td>
+</table> 
+
+## Proyectos recientes
+
+<table align="center">
+<tr>
+  
+<td width="50%">
+<h3 align="center">Parrilladas GDL</h3>
+<div align="center">
+<img src="https://imgur.com/24W3sU0.png">
+<p>
+Aplicación multiplataforma para realizar pedidos a domicilio, procesamiento de pagos y logistica de enviós con Google Maps API
+</p>
+<a href="https://parrillada-gdl.com">
+<img src="https://img.shields.io/badge/Visitar-005d9e?style=for-the-badge">
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Éxito Latino 97.1 fm</h3>
+<div align="center">
+<img src="https://imgur.com/Pa5cHzX.png">
+<p>
+Radio digital 24/7, musica regional, spots y programas esotericos
+</p>
+<a href="https://exitolatino-radiodigital.com/">
+<img src="https://img.shields.io/badge/Visitar-005d9e?style=for-the-badge">
+</div>
+</td>
+
 </table>  
 
 ## Proyectos QA con TripleTen
@@ -98,40 +132,33 @@ Pruebas de API
 Pruebas de aplicaciones móviles
 </a>
 </h3>
+</li>
+  <li>
+<h3>
+<a href="https://github.com/QA-CesarHuerta/api_stand_tests">
+Pruebas API en Python
+</a>
+</h3>
+</li>
+    <li>
+<h3>
+<a href="https://github.com/QA-CesarHuerta/qa-project-Urban-Grocers-app-es">
+Pruebas automatizadas Pytest
+</a>
+</h3>
 </li> 
+      <li>
+<h3>
+<a href="https://github.com/QA-CesarHuerta/qa-project-Urban-Routes-es">
+Pruebas automatizadas Pytest y Selenium
+</a>
+</h3>
+</li>
 </ul>
 </th>
 </tr>
 </table>
 
-## Proyectos recientes
-<table align="center">
-<tr>
-  
-<td width="50%">
-<h3 align="center">Parrilladas GDL</h3>
-<div align="center">
-<img src="https://imgur.com/24W3sU0.png">
-<p>
-Aplicación multiplataforma para realizar pedidos a domicilio, procesamiento de pagos y logistica de enviós con Google Maps API
-</p>
-<a href="https://parrillada-gdl.com">
-<img src="https://img.shields.io/badge/Visitar-005d9e?style=for-the-badge">
-</div>
-</td>
 
-<td width="50%">
-<h3 align="center">Éxito Latino 97.1 fm</h3>
-<div align="center">
-<img src="https://imgur.com/Pa5cHzX.png">
-<p>
-Radio digital 24/7 alojado en un servidor local, musica regional, spots y programas esotericos
-</p>
-<a href="https://exitolatino-radiodigital.com/">
-<img src="https://img.shields.io/badge/Visitar-005d9e?style=for-the-badge">
-</div>
-</td>
-
-</table>  
 
 
